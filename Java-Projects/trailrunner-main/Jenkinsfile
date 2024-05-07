@@ -1,0 +1,37 @@
+pipeline {
+    agent any 
+  
+      stages {
+        stage ('Build') {
+            steps {
+                bat "mvn compile"
+            }
+        }
+        stage ('Test') {
+            steps {
+                bat "mvn test"
+            }
+        }
+        stage ('Post Test') {
+            steps
+            {   
+                junit '**/TEST*.xml'
+                jacoco(
+                execPattern: '**/target/jacoco.exec',
+                classPattern: '**/target/classes/se/iths',
+                sourcePattern: '**/src/main/java/se/iths'
+                )
+            }
+        }
+        stage ('Run Robot') {
+            steps {
+                bat "robot C:/Users/fredr/.jenkins/workspace/FredrikEkebro/Selenium/Labb2_Testautomation/Labb2_Test.robot"
+            }
+            post {
+                always {
+                    robot outputPath: 'C:/Users/fredr/.jenkins/workspace/FredrikEkebro/Selenium', logFileName: 'log.html', outputFileName: 'output.xml', reportFileName: 'report.html', passThreshold: 100, unstableThreshold: 75.0
+                }
+            }
+        }
+    }
+}

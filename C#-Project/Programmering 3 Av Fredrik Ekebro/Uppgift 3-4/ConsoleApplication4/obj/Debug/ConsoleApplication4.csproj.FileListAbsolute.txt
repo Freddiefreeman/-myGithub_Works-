@@ -1,0 +1,9 @@
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

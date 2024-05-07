@@ -1,0 +1,12 @@
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\users\fredrik\docs\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Uppgift 3-1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

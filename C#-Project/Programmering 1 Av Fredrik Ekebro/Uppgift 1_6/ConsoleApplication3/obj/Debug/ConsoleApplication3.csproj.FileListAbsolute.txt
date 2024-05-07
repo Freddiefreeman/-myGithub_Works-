@@ -1,0 +1,9 @@
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\fredrik.ekebro\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Programmering 1 Av Fredrik Ekebro\Uppgift 1_6\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Programmering 1 Av Fredrik Ekebro\Uppgift 1_6\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\users\fredrik\docs\Visual Studio 2015\Projects\Programmering 1 Av Fredrik Ekebro\Uppgift 1_6\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
